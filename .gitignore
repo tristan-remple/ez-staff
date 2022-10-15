@@ -1,0 +1,9 @@
+# "do not upload" folder, mostly personal notes and planning txt files
+/\!DO NOT UPLOAD
+
+# folders and pages containing the actual content
+/images
+/docs
+
+# establishes database connection
+conn.php

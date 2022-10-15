@@ -1,0 +1,182 @@
+body {
+    background-image: url('../images/brunch-slices.png');
+    background-repeat: repeat;
+    background-color: #AFFBF1;
+}
+
+  ::-webkit-scrollbar-track {
+  background: #F9BF80;
+  }
+
+  ::-webkit-scrollbar-thumb {
+  background: #ED577E;
+  }
+
+.title {
+    color: #F14350;
+}
+
+.subtitle {
+    color: #F14350;
+}
+
+.textbox {
+    background-color: #FBFBAF;
+    border-color: #A1E869;
+    color: #F58145;
+}
+
+.textbox a {
+    color: #F14350;
+}
+
+.btncolor {
+    background-color: #F9BF80;
+    border-color: #F16346;
+    color: #F14350;
+}
+
+.btncolor a {
+    color: #F14350;
+}
+
+.btncolor:hover {
+    background-color: #F16346;
+    color: #FBFBAF;
+    border-color: #F14350;
+}
+
+.btncolor a:hover {
+    color: #FBFBAF;
+}
+
+.btncolor:focus {
+    background-color: #F16346;
+    color: #FBFBAF;
+    border-color: #F14350;
+}
+
+.btncolor a:focus {
+    color: #FBFBAF;
+}
+
+.line {
+    border-color: #A1E869;
+}
+
+.fakebtncolor {
+    background-color: #F9BF80;
+    border-color: #F16346;
+    color: #F14350;
+}
+
+.priority {
+    background-color: #FFCDDC;
+    border-color: #ED577E;
+    color: #F14350;
+}
+
+.day {
+    border-color: #A1E869;
+}
+
+.day-number {
+    color: #F14350;
+}
+
+.campaign {
+    background-color: #CDFFF4;
+    border-color: #A1E869;
+    color: #00E6B3;
+}
+
+.important {
+    background-color: #FFCDDA;
+    border-color: #A1E869;
+    color: #E6003B;
+}
+
+.public {
+    background-color: #FFDBCD;
+    border-color: #A1E869;
+    color: #E64000;
+}
+
+.meeting {
+    background-color: #FFF4CD;
+    border-color: #A1E869;
+    color: #FF9D00;
+}
+
+.reminder {
+    background-color: #D9FFCD;
+    border-color: #A1E869;
+    color: #37E600;
+}
+
+.personal {
+    background-color: #CDD9FF;
+    border-color: #A1E869;
+    color: #0037E6;
+}
+
+.schedule {
+    background-color: #F3CDFF;
+    border-color: #A1E869;
+    color: #AF00E6;
+}
+
+.day-event {
+    color: #F14350;
+}
+
+.day-event:hover {
+    background-color: #AFFBF1;
+    border-radius: 6px;
+}
+
+.day-event:focus {
+    background-color: #AFFBF1;
+    border-radius: 6px;
+}
+
+.stand:focus {
+    background-color: #ED577E;
+}
+
+.stand:hover {
+    background-color: #ED577E;
+}
+
+.view-arrow:hover {
+    background-color: #AFFBF1;
+    border-radius: 6px;
+}
+
+.view-arrow:focus {
+    background-color: #AFFBF1;
+    border-radius: 6px;
+}
+
+.bigdeal td {
+    border-color: #A1E869;
+}
+
+.active {
+  color: #F14350;
+  background-color: #FFCDDC;
+  border-color: #F14350;
+}
+
+.icon {
+  border-color: #A1E869;
+}
+
+.accent {
+  background-color: #FCFFDE;
+}
+
+.admin {
+  border-color: #A1E869;
+  background-color: #FCFFDE;
+}
